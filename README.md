@@ -1,3 +1,46 @@
-# Timestamp Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+# ⏱️ Timestamp Microservice
+
+This is a full-stack JavaScript application built for the FreeCodeCamp **APIs and Microservices Certification**.
+
+The project converts dates into:
+- Unix Timestamp
+- UTC Date Format
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to view live project](https://072cd845-3e27-43d1-a883-f581cc82013b-00-38huc48jz4k5j.pike.replit.dev/)
+
+---
+
+## 📌 Project Objective
+
+Build a Timestamp Microservice similar to:
+https://timestamp-microservice.freecodecamp.rocks
+
+This API accepts a date string or Unix timestamp and returns a JSON response with:
+- Unix time
+- UTC formatted date
+
+> Note: Timezone conversion is not required for this project.
+
+---
+
+## ⚙️ Technologies Used
+
+- Node.js
+- Express.js
+- JavaScript (ES6)
+- HTML / CSS
+
+---
+
+## 📡 API Endpoints
+
+### Current Timestamp
+
+```bash
+/api
+
