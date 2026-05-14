@@ -15,6 +15,12 @@ The project converts dates into:
 
 ---
 
+## 📖 FreeCodeCamp Project Instructions
+
+👉 [View FreeCodeCamp Task](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice)
+
+---
+
 ## 📌 Project Objective
 
 Build a Timestamp Microservice similar to:
