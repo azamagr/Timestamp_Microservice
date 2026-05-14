@@ -24,7 +24,7 @@ The project converts dates into:
 ## 📌 Project Objective
 
 Build a Timestamp Microservice similar to:
-https://timestamp-microservice.freecodecamp.rocks
+[https://timestamp-microservice.freecodecamp.rocks](https://timestamp-microservice.freecodecamp.rocks)
 
 This API accepts a date string or Unix timestamp and returns a JSON response with:
 - Unix time
